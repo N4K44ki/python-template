@@ -1,0 +1,10 @@
+# venv
+.venv/
+
+# Ruff cache
+.ruff_cache/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
